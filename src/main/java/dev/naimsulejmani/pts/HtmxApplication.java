@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PtsApplication {
+public class HtmxApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PtsApplication.class, args);
+        SpringApplication.run(HtmxApplication.class, args);
     }
 
 }
